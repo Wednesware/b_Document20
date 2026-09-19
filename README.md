@@ -1,4 +1,4 @@
-[![Wednesware](wednesware.png)](https://wednesware.org) [Replace this with your own logo]
+[![Wednesware](https://github.com/Wednesware/Nitrogen/raw/main/wednesware.png)](https://wednesware.org) [Replace this with your own logo]
 
 # [Project Name]
 
